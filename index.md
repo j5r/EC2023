@@ -1,6 +1,6 @@
 (editado em 09/11/2022)
 
-# EMENDA CONSTITUCIONAL ...
+# [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292)
 
 ### Adiciona o § 14 ao art. 14 da Constituição Federal.
 
@@ -11,7 +11,7 @@ Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
 
 > "Art. 14.....................................................................................................................
 >
-> § 14 A contagem e registro do voto deverão ser feitos em dois meios independentes.
+> § 14 A contagem e registro do voto dar-se-ão em dois meios independentes.
 >
 > I - o voto será registrado em mídia digital para fins de agilidade no processo de contagem de votos, e mídia física para fins de publicidade e auditoria.
 >
