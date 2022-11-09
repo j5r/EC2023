@@ -21,7 +21,7 @@ Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
 >
 > b) haverá no mínimo duas gravações independentes da contagem analógica de votos de cada seção eleitoral;
 >
-> c) todas as gravações ficarão disponíveis para acesso público por período não inferior a quatro anos."
+> c) todas as gravações ficarão disponíveis para acesso público em meio eletrônico por período não inferior a quatro anos."
 
 Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
