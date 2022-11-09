@@ -15,7 +15,7 @@ Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
 >
 > I - o voto será registrado em mídia digital para fins de agilidade no processo de contagem de votos, e mídia física para fins de publicidade e auditoria.
 >
-> II - a contagem dos votos ocorrerá em cada seção eleitoral de maneira digital com base na mídia digital a que alude o Inciso I e também de maneira analógica, com base na mídia física a que alude o Inciso I;
+> II - a contagem dos votos ocorrerá de maneira digital com base na mídia digital a que alude o Inciso I e também em cada seção eleitoral de maneira analógica, com base na mídia física a que alude o Inciso I;
 >
 > a) a contagem analógica de votos será gravada em vídeo ou outra mídia equivalente e publicada para fins de publicidade e auditoria.
 >
