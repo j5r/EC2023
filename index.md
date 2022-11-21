@@ -49,7 +49,7 @@ Senador ...
 
 # Motivação
 
-O exercício do voto direto é secreto, o qual deve ser registrado nas urnas sem a possibilidade de se descobrir o autor, após investigação. Isso alude a ideia de "embaralhar" os registros dos votos, evitando-se o que ficou conhecido na história como "voto de cabresto", em que pessoas poderosas pressionavam pessoas comuns a votarem em quem eles, os poderosos, mandassem. Essa prática provocava distorções na democracia, onde grupos políticos conseguiam se perpetuar no poder. No entanto, uma vez que os votos estejam "embaralhados", garante-se o sigilo do voto e evita-se a prática do "voto de cabresto". 
+O exercício do voto direto é secreto, o qual deve ser registrado nas urnas sem a possibilidade de se descobrir o autor, mesmo após investigação. Isso alude a ideia de "embaralhar" os registros dos votos, evitando-se o que ficou conhecido na história como "voto de cabresto", em que pessoas poderosas pressionavam pessoas comuns a votarem em quem eles, os poderosos, mandassem. Essa prática provocava distorções na democracia, onde grupos políticos conseguiam se perpetuar no poder. No entanto, uma vez que os votos estejam "embaralhados", garante-se o sigilo do voto e evita-se a prática do "voto de cabresto". 
 
 Um passo a mais no fortalecimento da democracia consiste em dar publicidade e transparência na contagem dos votos, garantindo a legitimidade dos candidatos que forem eleitos, porque a eleição somente se torna legítima se todos, eleitores, eleitos e não eleitos, confiarem no processo de registro e contagem de votos. Essa confiança se torna forte somente com abundância de transparência, garantindo a qualquer cidadão a compreensão do processo a que se submeteu o pleito.
 
