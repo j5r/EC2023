@@ -61,9 +61,13 @@ Uma solução bastante eloquente consiste em realizar a votação em duas vias d
 
 A **agilidade** na proclamação do resultado é garantida pela mídia digital, como já vem acontecendo há anos, e a **transparência** é devidamente assegurada por meio dos vídeos publicados. O banco de dados da mídia digital é disponibilizado ao públido para que se possa realizar estudos, comparações e também denunciar quaisquer divergências em relação à apuração feita na mídia analógica. 
 
-Acredito ter trazido uma motivação clara e objetiva no tratamento das duas principais questões das eleições: agilidade e transparência. Fica claro que a legitimidade do eleito se dá por fé pública mediante transparência. A falta dessa transparência é proporcional à falta dessa legitimidade. Uma sociedade sob um governo ilegítimo não prospera, pois paira a desconfiança em todos os seus atos. 
+Acredito ter trazido uma motivação clara e objetiva no tratamento das duas principais questões das eleições: agilidade e transparência. Fica claro que a legitimidade do eleito se dá por fé pública mediante transparência. A falta dessa transparência é proporcional à falta dessa legitimidade. Uma sociedade sob um governo ilegítimo não prospera, pois paira a desconfiança em todos os seus atos, bem como a sua não aceitação. 
 
-E finalmente, é suspeito qualquer que considere virtuosa a falta de transparência, sob qualquer argumento, defensável ou não, porque a falta da transparência é a receita diametralmente oposta à pacificação social.
+E finalmente, é suspeito qualquer que considere virtuosa a falta de transparência, **sob qualquer argumento, defensável ou não**, porque a falta da transparência é o caminho diametralmente oposto à pacificação social. Portanto quem defende a translucidez ou opacidade no processo eleitoral, indiretamente defende o caos social, o que é inadmissível numa democracia vigorosa.
+
+Sem mais.
+
+JRR
 
 
 
