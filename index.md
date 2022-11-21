@@ -1,4 +1,4 @@
-(editado em 09/11/2022)
+(editado em 21/11/2022)
 
 # [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292)
 
