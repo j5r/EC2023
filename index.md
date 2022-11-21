@@ -1,6 +1,8 @@
 (editado em 21/11/2022)
 
-# [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292)
+# [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292) 
+
+<spam style="font-size:1vh;color:orange;">Clique no link ao acima para ver o histórico dessa discussão no Congresso.</spam>
 
 ### Adiciona o § 14 ao art. 14 da Constituição Federal.
 
