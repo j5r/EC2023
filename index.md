@@ -2,6 +2,8 @@
 
 # [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292) 
 
+[Debate no Supremo Tribunal Federal no julgamento da ADI 5889](https://youtu.be/yNk8jiQAc-U?t=1798)
+
 <spam style="font-size:3vh;color:orange;">Clique no link ao acima para ver o histórico dessa discussão no Congresso.</spam>
 
 ### Adiciona o § 14 ao art. 14 da Constituição Federal.
