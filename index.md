@@ -35,7 +35,7 @@ Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
 > 
 > III - a mídia física será declarada confiável em detrimento à mídia digital sempre que houver discrepância entre registros de votos, já que a mesma dá materialidade a cada voto de forma independente;
 > 
-> IV - cabe a qualquer cidadão ou partido político registrar denúncia sempre que houver discrepância entre os registros de votos disponíveis no banco de dados e a os registros dos votos gravados em vídeo, conforme item 1. da alínea a) do inciso II e item 1. da alínea b) do mesmo inciso. A denúncia será investigada e eventuais distorções serão corrigidas.
+> IV - cabe a qualquer cidadão ou partido político registrar denúncia sempre que houver discrepância entre os registros de votos disponíveis no banco de dados e  os registros dos votos gravados em vídeo, conforme item 1. da alínea a) do inciso II e item 1. da alínea b) do mesmo inciso. A denúncia será investigada e eventuais distorções serão corrigidas.
 
 Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
