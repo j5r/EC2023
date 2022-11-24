@@ -1,4 +1,4 @@
-(editado em 21/11/2022)
+(editado em 24/11/2022)
 
 # [EMENDA CONSTITUCIONAL ...](https://www.camara.leg.br/propostas-legislativas/2220292) 
 
@@ -15,25 +15,27 @@ Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
 >
 > § 14 A contagem e registro do voto dar-se-ão em dois meios independentes na forma da lei.
 >
-> I - cada voto será registrado em duas vias de igual teor: uma em mídia digital para fins de agilidade no processo de contagem de votos, e uma em mídia física para fins de publicidade e auditoria.
+> I - cada voto será registrado em duas vias iguais em teor, diferentes em forma, conferidas pelo eleitor: uma via em mídia digital para fins de agilidade no processo de contagem de votos, e uma via em mídia física para fins de publicidade e auditoria;
 >
-> II - a contagem dos votos ocorrerá de maneira digital com base na mídia digital a que alude o Inciso I e também em cada seção eleitoral de maneira analógica, com base na mídia física a que alude o Inciso I:
+> a) os votos constantes dos registros físicos serão contados ao final da votação em cada seção eleitoral diante dos fiscais e demais interessados e posteriormente arquivados pela autoridade competente para eventual auditoria.
+>
+> II - os votos serão contados em duas formas independentes: haverá a contagem dos votos registrados na mídia digital e haverá a contagem dos votos registrados na mídia física:
 > 
-> a) a contagem de votos da mídia digital será publicada em meio eletrônico por período não inferior a quatro anos:
+> a) a contagem de votos da mídia digital será publicada em meio eletrônico por período não inferior a quatro anos, e além disso:
 > 
 > 1. o banco de dados com todas as informações centralizadas será disponibilizado para _download_ para qualquer cidadão;
 > 
 > 2. as instruções de acesso às informações do banco de dados também serão disponibilizadas.
 >
-> b) a contagem analógica de votos será gravada em vídeo ou outra mídia equivalente, em cada seção eleitoral, e publicada para fins de publicidade e auditoria:
+> b) a contagem de votos da mídia física será gravada em vídeo ou outra mídia equivalente, em cada seção eleitoral, e publicada para fins de publicidade e auditoria:
 >
-> 1. haverá no mínimo duas gravações independentes da contagem analógica de votos de cada seção eleitoral;
+> 1. haverá no mínimo duas gravações independentes da contagem de votos da mídia física de cada seção eleitoral;
 >
 > 2. todas as gravações ficarão disponíveis para acesso público em meio eletrônico por período não inferior a quatro anos.
 > 
-> III - a mídia física será declarada confiável em detrimento à mídia digital sempre que houver discrepância entre registros de votos."
+> III - a mídia física será declarada confiável em detrimento à mídia digital sempre que houver discrepância entre registros de votos, já que a mesma dá materialidade a cada voto de forma independente;
 > 
-> IV - cabe a qualquer cidadão ou partido político registrar denúncia sempre que houver discrepância entre a contagem digital disponível no banco de dados e a contagem analógica gravada. A denúncia será investigada e eventuais distorções serão corrigidas.
+> IV - cabe a qualquer cidadão ou partido político registrar denúncia sempre que houver discrepância entre os registros de votos disponíveis no banco de dados e a os registros dos votos gravados em vídeo, conforme item 1. da alínea a) do inciso II e item 1. da alínea b) do mesmo inciso. A denúncia será investigada e eventuais distorções serão corrigidas.
 
 Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
@@ -57,7 +59,9 @@ Um passo a mais no fortalecimento da democracia consiste em dar publicidade e tr
 
 Em uma era da humanidade em que as máquinas eletrônicas permitem uma grande rapidez no tratamento da informação, é ato de pobreza de espírito crer que não se possa submeter as eleições a um programa de computador que faça a apuração ser muito rápida e declarar-se o vencedor em um curto intervalo de tempo. Mas somente um programa de computador não é suficiente para garantir a transparência no processo. A contagem de cada um dos votos é um ato singular e lhe é imprescindível a publicidade: todos devem saber o teor de cada voto em particular, sem intermediários, mas da forma mais crua e direta possível, processo que lhe dá fé pública. Uma máquina eletrônica, por mais que esteja programada devidamente não garante a fé pública na contagem dos votos, porque a mesma faz manipulação de _bytes_ no interior de seu processador, procedimento que é desconhecido de **todos** os que lhe depositam o voto. A máquina faz um papel intermediário entre o votante e a contagem. Não é possível a nenhum dos eleitores **ver** o trajeto do seu voto até a tabela onde constam todos os votos, já que os _bytes_ são invisíveis. Fica uma desconfiança de que algum erro por incompetência ou dolo possa manipular o teor do voto antes de se imprimir o resultado da contagem. 
 
-Para dirimir qualquer desconfiança por incompetência ou dolo, é virtuosa a adoção de uma mídia física para dar **materialidade ao voto**, fazendo-se possível sua contagem **às claras**, sem intermediários, desde que também se leve em conta o anonimato do voto com um efetivo "embaralhamento". **Qualquer pessoa mal intencionada que queira manipular um voto, agora terá um custo muito maior para fazê-lo**, porque precisa fraudar dois sistemas independentes e de modo coerente, para que sua fraude não seja visivelmente ou rapidamente descoberta. Precisará estudar o funcionamento de ambas as mídias e seus processos inerentes, desencorajando o ato.
+Para dirimir qualquer desconfiança por incompetência ou dolo, é virtuosa a adoção de uma mídia física para dar **materialidade para cada voto**, conferido pelo eleitor, garantindo-lhe fé pública, fazendo-se possível sua contagem **às claras**, sem intermediários, desde que também se leve em conta o anonimato do voto com um efetivo "embaralhamento". A questão central é que o registro do voto materializado em uma mídia física tem o seu teor inalterado ao longo do tempo, exceto por flagrante fraude, já que o autor conferiu seu teor e lhe deu fé. O mesmo não acontece com a mídia digital. É possível um registro codificado em _bytes_ pela máquina e conferido pelo autor, dando-lhe fé, ser alterado ao longo do tempo por razão fraudulenta. E o pior é que essa fraude pode não ser tão explícita, necessitando profunda análise e investigação, exatamente pelo motivo de que alterar um registro físico deixa impressões físicas visíveis, enquanto que alterar registros em _bytes_ não deixa impressões visíveis, sendo necessário perícia técnica.
+
+Quando se tem duas mídias independentes para registro e contagem dos votos, **qualquer pessoa mal intencionada que queira manipular um voto, agora terá um custo muito maior para fazê-lo**, porque precisa fraudar dois sistemas independentes e de modo coerente, para que sua fraude não seja visivelmente ou rapidamente descoberta. Precisará estudar o funcionamento de ambas as mídias e seus processos inerentes, desencorajando o ato. Mesmo que não haja dolo em eventuais erros da mídia digital, tais erros podem nunca ser descobertos em havendo apenas registros digitais. Um simples exemplo disso seria um ataque malicioso ao sistema que centraliza os dados com objetivo de apagar ou alterar os registros. Se o ataque exitar, ter-se-á prejuízos e será custoso descobrir os pontos afetados e restaurar os registros, ou mesmo pode-se haver irrecuperável perda dos dados, caso pouco provável, mas muito crítico. Isso não acontece em mídia física, porque quaisquer erros ocorridos com ou sem dolo serão imediatamente contestados pelo autor do voto no momento do registro, corrigindo-se o erro no exato momento de seu surgimento.
 
 Uma solução bastante eloquente consiste em realizar a votação em duas vias de igual teor, distintas em forma, uma em mídia digital por meio de urnas eletrônicas devidamente programadas para a ocasião, e outra via impressa em papel ou outra forma material conferível pelo votante. O eleitor registrará seu voto na urna eletrônica, a qual emitirá um registro físico e que será conferido pelo eleitor e será guardada para posterior apuração. Em cada seção eleitoral, abrir-se-á a apuração das mídias digitais, como já ocorre há algumas décadas no país, e também abrir-se-á a apuração das mídias físicas no mesmo dia. A contagem de cada voto é feita diante dos fiscais e registrada em vídeo ou mídia equivalente, gravando-se voto por voto. Ao final da apuração, sobe-se a gravação para um repositório eletrônico disponível ao público para que qualquer cidadão possa assistir **às claras** o processo de contagem dos votos, um voto por vez e ao final saber qual foi o total declarado. Qualquer interessado poderá assistir a apuração de qualquer seção, sem a necessidade de estar presente. 
 
